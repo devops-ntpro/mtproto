@@ -1,4 +1,4 @@
-module github.com/teamgram/proto
+module github.com/devops-ntpro/mtproto
 
 go 1.17
 

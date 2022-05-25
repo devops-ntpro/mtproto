@@ -21,7 +21,7 @@ package metadata
 import (
 	"encoding/base64"
 
-	"github.com/teamgram/proto/mtproto"
+	"github.com/devops-ntpro/mtproto/mtproto"
 
 	"github.com/gogo/protobuf/proto"
 	"google.golang.org/grpc/metadata"

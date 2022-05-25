@@ -6,7 +6,7 @@ package metadata_test
 import (
 	"testing"
 
-	metautils "github.com/teamgram/proto/mtproto/rpc/metadata"
+	metautils "github.com/devops-ntpro/mtproto/mtproto/rpc/metadata"
 
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
